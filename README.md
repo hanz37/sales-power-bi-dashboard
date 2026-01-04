@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard for analyzing sales performance.
 ## Tools Used
 - Power BI
 - DAX
-- Python visuals (for distribution analysis)
+
 
 ## File
 - `Sales_Power_BI_Dashboard.pbix` – Power BI report file
